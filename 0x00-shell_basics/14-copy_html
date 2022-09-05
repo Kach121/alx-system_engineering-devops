@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -nu *.html ..[5:54pm,31/08/2022]
+cp -nu *.html
